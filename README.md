@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Colin and I'm a Student from the UK.</p>
+<p align="left">My name is Colin and I'm a student from the UK.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data Science<br>🎯 Goals: To compute that data like no other (in a good way)</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Data Science<br>🎯 Goals: To compute that data like no other (in a good way)<br>⭐ Fun Fact: Exactly 5 seconds ago I realised I should have chosen a better username</p>
 
 ###
 
